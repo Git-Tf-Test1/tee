@@ -1,4 +1,6 @@
 # Team Explorer Everywhere Plug-in for Eclipse and Cross-platform Command-line Client for Team Foundation Server
+sega
+asgasga
 This project contains:
 - Team Explorer Everywhere Plug-in for Eclipse
 - Cross-platform Command-line Client for Team Foundation Server and Team Services
